@@ -1,4 +1,6 @@
 # dockerscript
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/devTristan/dockerscript.svg)](https://greenkeeper.io/)
 Write your Dockerfile in javascript!
 
 [![Build Status](https://travis-ci.org/devTristan/dockerscript.svg?branch=master)](https://travis-ci.org/devTristan/dockerscript)
